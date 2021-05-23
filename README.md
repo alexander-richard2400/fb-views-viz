@@ -16,4 +16,4 @@ If you add the functionality to scrape Facebook web pages, I am not responsible 
 1. Log into Facebook and navigate to your profile page
 2. Right-click and `View page source`
 3. Copy the contents to the source.txt file
-4. Run `visualize.sh`
+4. Run `./load.sh`
